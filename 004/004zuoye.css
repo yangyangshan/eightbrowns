@@ -46,6 +46,10 @@ em, i{
 	cursor: pointer;
 	color: rgb(119,119,121);
 }
+.banner a.a-four{
+	color: white;
+	background: rgb(247,123,111);
+}
 .banner a:hover{
 	background-color: rgb(247,123,111);
 }
