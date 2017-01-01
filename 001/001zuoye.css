@@ -21,19 +21,20 @@ em, i{
 	font-style:normal;
 }
 .banner{
-	width: 1138px;
+	width: 1198px;
 	height: 98px;
 	margin:0 auto;
 	padding-left: 62px;
+	background: white;
 }
 .banner span{
-	color: rgb(119,119,121);
+	color: rgb(35,106,250);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
 }
 .banner em{
-	color: rgb(244,107,91);
+	color: rgb(248,147,29);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
@@ -47,34 +48,45 @@ em, i{
 	color: rgb(119,119,121);
 }
 .banner a.a-one{
-	background-color: rgb(247,123,111);
-	color: white;
+	background-color: rgb(147,224,255);
+	color: rgb(35,106,250);
 }
 .banner a:hover{
-	background-color: rgb(247,123,111);
+	background-color: rgb(147,224,255);
 }
 .bannera{
-	padding-left: 380px;
+	padding-left: 200px;
 	padding-top: 30px;
 }
+.banner input{
+	width: 160px;
+	height: 22px;
+	margin-top: 10px;
+	padding-left: 6px;
+	line-height: 22px;
+}
+.top-nav{
+	width: 100%;
+	background-color: rgb(147,224,255);
+}
 .topnav{
-	width: 1138px;
+	width: 1198px;
 	margin:0 auto;
-	height: 118px;
+	height: 98px;
 	padding-left: 62px;
-	background-color: rgb(71,82,104);
+	
 }
 .topnav span{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	padding-right: 12px;
 	float: left;
 }
 .topnav em{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	float: left;
 }
 .topnava {
@@ -82,19 +94,20 @@ em, i{
 	padding-right: 72px;
 }
 .topnava a{
-	line-height: 118px;
-	color: rgb(244,107,91);
+	line-height: 98px;
+	color: rgb(35,106,250);
 	cursor: pointer;
 } 
 .topnava i{
-	color: white;padding: 0 5px;
+	color: rgb(248,147,29);padding: 0 5px;
 }
 .mainnav{
-	width: 1140px;
+	width: 1200px;
 	margin:0 auto;
 	padding-left: 60px;
 	padding-top: 40px;
 	height: 464px;
+	background: white;
 }
 .mainleft{
 	width: 436px;
@@ -124,9 +137,8 @@ em, i{
 .mainleft .lefter{
 	width: 46px;
 	height: 50px;
-	opacity: 0.7;
 	background: url(./images/flex-prev.png) no-repeat 8px;
-	background-color: black;
+	background-color: rgb(147,224,255);
 	position: absolute;
 	left: 0px;
 	top: 110px;
@@ -136,8 +148,7 @@ em, i{
 	width: 46px;
 	height: 50px;
 	background: url(./images/flex-next.png) no-repeat 12px;
-	background-color: black;
-	opacity: 0.5;
+	background-color: rgb(147,224,255);
 	position: absolute;
 	left: 390px;
 	top: 110px;
@@ -170,7 +181,7 @@ em, i{
 	color: black;
 }
 .mainbottoml{
-	padding-left:60px;
+	padding-right:80px;
 	padding-top: 56px;
 	float: left;
 	width: 504px;
@@ -179,7 +190,7 @@ em, i{
 	width: 60px;
 	height: 60px;
 	border-radius: 50%;
-	background-color: rgb(244,107,91);
+	background: url(./images/qiu1.jpg);
 	float: left;
 }
 .mainwords{
@@ -192,7 +203,10 @@ em, i{
 	font-size: 20px;
 	color: rgb(35,106,250);
 	padding-bottom: 10px;
-	
+	cursor: pointer;
+}
+.mainwords a:hover{
+	text-decoration:underline
 }
 .mainwords span{
 	display: block;
@@ -201,7 +215,6 @@ em, i{
 	line-height: 20px;
 }
 .mainbottomr{
-	padding-left:60px;
 	padding-top: 56px;
 	float: left;
 	width: 504px;
@@ -223,7 +236,7 @@ em, i{
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
-	background:url(./images/d9f4f900e10d48c09461d5c2530e5c4c.jpg) no-repeat; 
+	background:url(./images/kameilong.jpg) no-repeat -16px; 
 }
 .midwords{
 	float: left;
@@ -337,7 +350,7 @@ em, i{
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	background:url(./images/d9f4f900e10d48c09461d5c2530e5c4c2.jpg) no-repeat;
+	background:url(./images/jackchen.jpg) no-repeat;
 }
 .endnav  ul li a{
 	display: block;
@@ -362,92 +375,12 @@ em, i{
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	background:url(./images/20161111092855691.jpg) no-repeat;
+	background:url(./images/gongqijun.jpg) no-repeat;
 }
 .numone2{
 	margin-left: 60px;
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	background:url(./images/8z6upg85l547.jpg) no-repeat;
-}
-.bottomnav{
-	height: 246px;
-	width: 1200px;
-	margin: 0 auto;
-	background-color: rgb(71,82,104);
-	margin-top: 30px;
-	padding-top: 54px;
-}
-.bottomleft {
-	padding-left: 60px;
-	float: left;
-}
-.bottomleft h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 10px;
-}
-.bottomleft  a{
-	display: block;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-}
-.bottomleft span{
- 	display: block;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-	float: left;
- }
-.bottomleft p{
-	float: left;
-	font-size: 12px;
-	color:rgb(243,125,108);
-	padding-top: 20px;
-}
-.bottommid{
-	float: left;
-	padding-left: 100px;
-}
-.bottommid h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 10px;
-}
-.bottommid a{
-	float: left;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-}
-.bottommid span{
-	float: left;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-	padding-left: 56px;
-}
-.bottomright{
-	float: right;
-	width: 240px;
-	padding-right: 90px;
-}
-.bottomright h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 16px;
-}
-.bottomright ul{
-	width: 240px;
-}
-.bottomright li{
-	width: 50px;
-	height: 50px;
-	background: linear-gradient(red,cyan,blue);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='red',Colorstr='cyan',endColorstr='blue');
-	float: left;
-	margin-top: 10px;
-	margin-right: 10px;
+	background:url(./images/laiannaduo.jpg) no-repeat;
 }

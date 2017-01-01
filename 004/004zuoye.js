@@ -28,19 +28,19 @@ Array.prototype.filter = function(callback){
 };
 var dataimg=[
   {
-    url:"./images/50677_0_1397288723.jpg",
+    url:"./images/xueguo.jpg",
     hrefs:"https://www.baidu.com"
   },
   {
-    url:"./images/7386216.jpg",
+    url:"./images/vzi.jpg",
     hrefs:"https://nuomi.baidu.com"
   },
   {
-    url:"./images/a_112815785.jpg",
+    url:"./images/jixie.jpg",
     hrefs:"https://tieba.baidu.com"
   },
   {
-    url:"./images/fgh.jpg",
+    url:"./images/qianjun.jpg",
     hrefs:"https://tieba.baidu.com"
   }
 ];

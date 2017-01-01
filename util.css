@@ -1,0 +1,80 @@
+.bottomnav{
+	height: 246px;
+	width: 1200px;
+	margin: 0 auto;
+	background-color:rgb(111,111,111);
+	margin-top: 30px;
+	padding-top: 54px;
+}
+.bottomleft {
+	padding-left: 60px;
+	float: left;
+}
+.bottomleft h1{
+	font-size: 18px;
+	color: white;
+	padding-bottom: 10px;
+}
+.bottomleft  a{
+	display: block;
+	font-size: 12px;
+	color: white;
+	padding-top: 20px;
+}
+.bottomleft span{
+ 	display: block;
+	font-size: 12px;
+	color: white;
+	padding-top: 20px;
+	float: left;
+ }
+.bottomleft p{
+	float: left;
+	font-size: 12px;
+	color:rgb(243,125,108);
+	padding-top: 20px;
+}
+.bottommid{
+	float: left;
+	padding-left: 100px;
+}
+.bottommid h1{
+	font-size: 16px;
+	color: white;
+	padding-bottom: 10px;
+}
+.bottommid a{
+	float: left;
+	font-size: 12px;
+	color: white;
+	padding-top: 20px;
+}
+.bottommid span{
+	float: left;
+	font-size: 12px;
+	color: white;
+	padding-top: 20px;
+	padding-left: 56px;
+}
+.bottomright{
+	float: right;
+	width: 240px;
+	padding-right: 90px;
+}
+.bottomright h1{
+	font-size: 16px;
+	color: white;
+	padding-bottom: 16px;
+}
+.bottomright ul{
+	width: 240px;
+}
+.bottomright li{
+	width: 50px;
+	height: 50px;
+	background: linear-gradient(red,cyan,blue);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='red',Colorstr='cyan',endColorstr='blue');
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}

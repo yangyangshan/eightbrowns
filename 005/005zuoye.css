@@ -21,19 +21,19 @@ em, i{
 	font-style:normal;
 }
 .banner{
-	width: 1138px;
+	width: 1198px;
 	height: 98px;
 	margin:0 auto;
 	padding-left: 62px;
 }
 .banner span{
-	color: rgb(119,119,121);
+	color: rgb(35,106,250);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
 }
 .banner em{
-	color: rgb(244,107,91);
+	color: rgb(248,147,29);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
@@ -47,46 +47,48 @@ em, i{
 	color: rgb(119,119,121);
 }
 .banner a.a-five{
-	color: white;
-	background: rgb(247,123,111);
+	background-color: rgb(147,224,255);
+	color: rgb(35,106,250);
 }
 .banner a:hover{
-	background-color: rgb(247,123,111);
+	background-color: rgb(147,224,255);
 }
 .bannera{
-	padding-left: 380px;
+	padding-left: 200px;
 	padding-top: 30px;
 }
 .banner input{
 	color: rgb(121,121,121);
-	width: 150px;
+	width: 160px;
 	height: 22px;
 	font-size: 14px;
 	line-height: 22px;
 	margin-top: 10px;
-	background: url(./images/2016-11-22_210533.png) no-repeat 130px;
 	outline: none;
 	border:1px solid #CCC;
-	margin-left: 10px;
+	padding-left: 6px;
+}
+.top-nav{
+	width: 100%;
+	background-color: rgb(147,224,255);
 }
 .topnav{
-	width: 1138px;
+	width: 1198px;
 	margin:0 auto;
-	height: 118px;
+	height: 98px;
 	padding-left: 62px;
-	background-color: rgb(71,82,104);
 }
 .topnav span{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	padding-right: 12px;
 	float: left;
 }
 .topnav em{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	float: left;
 }
 .topnava {
@@ -94,7 +96,7 @@ em, i{
 	padding-right: 72px;
 }
 .topnava a{
-	line-height: 118px;
+	line-height: 98px;
 	color: rgb(244,107,91);
 	cursor: pointer;
 } 
@@ -102,7 +104,7 @@ em, i{
 	color: white;padding: 0 5px;
 }
 .main{
-	width: 1144px;
+	width: 1204px;
 	margin:0 auto;
 	padding-left: 56px;
 	padding-top: 40px;
@@ -138,40 +140,40 @@ em, i{
 	cursor: pointer;
 }
 .main-logo a.main1{
-	background: url(./images/one.jpg) no-repeat;
+	background: url(./images/2012.jpg) no-repeat;
 }
 .main-logo a.main2{
-	background: url(./images/two.jpg) no-repeat;
+	background: url(./images/chaoti.jpg) no-repeat;
 }
 .main-logo a.main3{
-	background: url(./images/three.jpg) no-repeat;
+	background: url(./images/daomeng.png) no-repeat;
 }
 .main-logo a.main4{
-	background: url(./images/four.jpg) no-repeat;
+	background: url(./images/dixin.jpg) no-repeat;
 }
 .main-logo a.main5{
-	background: url(./images/five.jpg) no-repeat;
+	background: url(./images/fulian.jpg) no-repeat;
 }
 .main-logo a.main6{
-	background: url(./images/six.jpg) no-repeat;
+	background: url(./images/gangtiexia.jpg) no-repeat;
 }
 .main-logo a.main7{
-	background: url(./images/seven.jpg) no-repeat;
+	background: url(./images/huoying.jpg) no-repeat;
 }
 .main-logo a.main8{
-	background: url(./images/eight.jpg) no-repeat;
+	background: url(./images/meidui.jpg) no-repeat;
 }
 .main-logo a.main9{
-	background: url(./images/nine.jpg) no-repeat;
+	background: url(./images/pai.jpg) no-repeat;
 }
 .main-logo a.main10{
-	background: url(./images/ten.jpg) no-repeat;
+	background: url(./images/xingqiu.jpg) no-repeat;
 }
 .main-logo a.main11{
-	background: url(./images/eleven.jpg) no-repeat;
+	background: url(./images/Xzhanjing.jpg) no-repeat;
 }
 .main-logo a.main12{
-	background: url(./images/twelve.jpg) no-repeat;
+	background: url(./images/yuandaima1.jpg) no-repeat;
 }
 .main-logo .opacitylogo{
 	position: absolute;
@@ -226,84 +228,3 @@ em, i{
 	color: rgb(111,111,111);
 	line-height: 36px;
 }
-	.bottomnav{
-		height: 246px;
-		width: 1200px;
-		margin: 0 auto;
-		background-color: rgb(71,82,104);
-		margin-top: 30px;
-		padding-top: 54px;
-	}
-	.bottomleft {
-		padding-left: 60px;
-		float: left;
-	}
-	.bottomleft h1{
-		font-size: 16px;
-		color: white;
-		padding-bottom: 10px;
-	}
-	.bottomleft  a{
-		display: block;
-		font-size: 12px;
-		color: white;
-		padding-top: 20px;
-	}
-	.bottomleft span{
-	 	display: block;
-		font-size: 12px;
-		color: white;
-		padding-top: 20px;
-		float: left;
-	 }
-	.bottomleft p{
-		float: left;
-		font-size: 12px;
-		color:rgb(243,125,108);
-		padding-top: 20px;
-	}
-	.bottommid{
-		float: left;
-		padding-left: 100px;
-	}
-	.bottommid h1{
-		font-size: 16px;
-		color: white;
-		padding-bottom: 10px;
-	}
-	.bottommid a{
-		float: left;
-		font-size: 12px;
-		color: white;
-		padding-top: 20px;
-	}
-	.bottommid span{
-		float: left;
-		font-size: 12px;
-		color: white;
-		padding-top: 20px;
-		padding-left: 56px;
-	}
-	.bottomright{
-		float: right;
-		width: 240px;
-		padding-right: 90px;
-	}
-	.bottomright h1{
-		font-size: 16px;
-		color: white;
-		padding-bottom: 16px;
-		display: block;
-	}
-	.bottomright ul{
-		width: 240px;
-	}
-	.bottomright li{
-		float: left;
-		width: 50px;
-		height: 50px;
-		background: linear-gradient(red,cyan,blue);
-		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='red',Colorstr='cyan',endColorstr='blue');
-		margin-top: 10px;
-		margin-right: 10px;
-	}

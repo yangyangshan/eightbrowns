@@ -21,19 +21,19 @@ em, i{
 	font-style:normal;
 }
 .banner{
-	width: 1138px;
+	width: 1198px;
 	height: 98px;
 	margin:0 auto;
 	padding-left: 62px;
 }
 .banner span{
-	color: rgb(119,119,121);
+	color: rgb(35,106,250);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
 }
 .banner em{
-	color: rgb(244,107,91);
+	color: rgb(248,147,29);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
@@ -47,14 +47,14 @@ em, i{
 	color: rgb(119,119,121);
 }
 .banner a.a-eight{
-	color: white;
-	background-color: rgb(247,123,111);
+	background-color: rgb(147,224,255);
+	color: rgb(35,106,250);
 }
 .banner a:hover{
-	background-color: rgb(247,123,111);
+	background-color: rgb(147,224,255);
 }
 .bannera{
-	padding-left: 380px;
+	padding-left: 200px;
 	padding-top: 30px;
 }
 .banner input{
@@ -67,26 +67,29 @@ em, i{
 	background: url(./images/2016-11-22_210533.png) no-repeat 130px;
 	outline: none;
 	border:1px solid #CCC;
-	margin-left: 10px;
+	padding-left: 6px;
+}
+.top-nav{
+	width: 100%;
+	background-color: rgb(147,224,255);
 }
 .topnav{
-	width: 1138px;
+	width: 1198px;
 	margin:0 auto;
-	height: 118px;
+	height: 98px;
 	padding-left: 62px;
-	background-color: rgb(71,82,104);
 }
 .topnav span{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	padding-right: 12px;
 	float: left;
 }
 .topnav em{
-	color: white;
-	font-size: 22px;
-	line-height: 118px;
+	color: rgb(35,106,250);
+	font-size: 26px;
+	line-height: 98px;
 	float: left;
 }
 .topnava {
@@ -94,7 +97,7 @@ em, i{
 	padding-right: 72px;
 }
 .topnava a{
-	line-height: 118px;
+	line-height: 98px;
 	color: rgb(244,107,91);
 	cursor: pointer;
 } 

@@ -28,15 +28,15 @@ Array.prototype.filter = function(callback){
 };
 var dataimg=[
 	{
-		url:"./images/ooo.jpg",
+		url:"./images/zhuobielin.jpg",
 		href:"https://www.baidu.com"
 	},
 	{
-		url:"./images/ttt.jpg",
+		url:"./images/handou.jpg",
 		href:"https://nuomi.baidu.com"
 	},
 	{
-		url:"./images/ththth.jpg",
+		url:"./images/xingxing.jpg",
 		href:"https://tieba.baidu.com"
 	}
 ];

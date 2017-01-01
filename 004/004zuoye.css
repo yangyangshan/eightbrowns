@@ -21,19 +21,19 @@ em, i{
 	font-style:normal;
 }
 .banner{
-	width: 1138px;
+	width: 1198px;
 	height: 98px;
 	margin:0 auto;
 	padding-left: 62px;
 }
 .banner span{
-	color: rgb(119,119,121);
+	color: rgb(35,106,250);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
 }
 .banner em{
-	color: rgb(244,107,91);
+	color: rgb(248,147,29);
 	font-size: 28px;
 	line-height: 98px;
 	float: left;
@@ -47,14 +47,14 @@ em, i{
 	color: rgb(119,119,121);
 }
 .banner a.a-four{
-	color: white;
-	background: rgb(247,123,111);
+	background-color: rgb(147,224,255);
+	color: rgb(35,106,250);
 }
 .banner a:hover{
-	background-color: rgb(247,123,111);
+	background-color: rgb(147,224,255);
 }
 .bannera{
-	padding-left: 380px;
+	padding-left: 200px;
 	padding-top: 30px;
 }
 .banner input{
@@ -67,7 +67,7 @@ em, i{
 	background: url(./images/2016-11-22_210533.png) no-repeat 130px;
 	outline: none;
 	border:1px solid #CCC;
-	margin-left: 10px;
+	padding-left: 6px;
 }
 .mainimages{
 	width: 1200px;
@@ -244,7 +244,7 @@ em, i{
 	height: 330px;
 	padding-left: 126px;
 	padding-top: 100px;
-	background: url(./images/tv.png) no-repeat 126px 100px;
+	background: url(./images/yifa.jpg) no-repeat 126px 100px;
 }
 .tvshow-right{
 	float: left;
@@ -341,7 +341,7 @@ em, i{
 .choose-img{
 	width: 400px;
 	height: 100px;
-	background: url(./images/gdd.png) no-repeat;
+	background: url(./images/daoyan.jpg) no-repeat;
 	float: left; 
 }
 .choose-img h3{
@@ -490,85 +490,4 @@ em, i{
 }
 .colormore a.colormore-five:hover{
 	background: url(./images/chuan.jpg) no-repeat 2px;
-}
-.bottomnav{
-	height: 246px;
-	width: 1200px;
-	margin: 0 auto;
-	background-color: rgb(71,82,104);
-	margin-top: 30px;
-	padding-top: 54px;
-}
-.bottomleft {
-	padding-left: 60px;
-	float: left;
-}
-.bottomleft h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 10px;
-}
-.bottomleft  a{
-	display: block;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-}
-.bottomleft span{
- 	display: block;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-	float: left;
- }
-.bottomleft p{
-	float: left;
-	font-size: 12px;
-	color:rgb(243,125,108);
-	padding-top: 20px;
-}
-.bottommid{
-	float: left;
-	padding-left: 100px;
-}
-.bottommid h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 10px;
-}
-.bottommid a{
-	float: left;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-}
-.bottommid span{
-	float: left;
-	font-size: 12px;
-	color: white;
-	padding-top: 20px;
-	padding-left: 56px;
-}
-.bottomright{
-	float: right;
-	width: 240px;
-	padding-right: 90px;
-}
-.bottomright h1{
-	font-size: 16px;
-	color: white;
-	padding-bottom: 16px;
-	display: block;
-}
-.bottomright ul{
-	width: 240px;
-}
-.bottomright li{
-	float: left;
-	width: 50px;
-	height: 50px;
-	background: linear-gradient(red,cyan,blue);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='red',Colorstr='cyan',endColorstr='blue');
-	margin-top: 10px;
-	margin-right: 10px;
 }

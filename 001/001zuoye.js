@@ -28,17 +28,17 @@ Array.prototype.filter = function(callback){
 };
 var dataimg=[
 	{
-		title:"腾讯",
+		title:"肖生克的救赎",
 		url:"./001/images/1418606363118.jpg",
 		href:"https://www.baidu.com"
 	},
 	{
-		title:"百度",
+		title:"泰坦尼克号",
 		url:"./001/images/F14UT1K6T7AE_32.jpg",
 		href:"https://nuomi.baidu.com"
 	},
 	{
-		title:"谷鸽",
+		title:"阿甘正传",
 		url:"./001/images/001c25ddb51a197913dc46.jpg",
 		href:"https://tieba.baidu.com"
 	}
